@@ -1,0 +1,17 @@
+{
+    "default": {
+        "model": "llama3.2",
+        "model_class": "ChatOllama"
+    },
+    "ollama": {
+        "langchain_project": "pr-linear-caffeine-81",
+        "model": "llama3.2",
+        "model_class": "ChatOllama"
+
+    },
+    "openai": {
+        "langchain_project": "pr-flowery-realization-1",
+        "model": "gpt-4o",
+        "model_class": "ChatOpenAI"
+    }
+}
